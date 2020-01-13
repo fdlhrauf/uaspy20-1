@@ -7,3 +7,9 @@ pada attribute books
 c. search_book(): buat instance class InputBook() dan call method search(), kemudian buat
 instance class SearchHelper() dan call method search_title(), kemudian buat instance class
 ViewBook dengan parameter books dari search_title() dan panggil method list()
+
+![input])(https://github.com/fdlhrauf/uaspy20-1/blob/master/foto/InputMain.jpeg)
+
+![output](https://github.com/fdlhrauf/uaspy20-1/blob/master/foto/outputMain.PNG)
+
+![file](https://github.com/fdlhrauf/uaspy20-1/blob/master/foto/File.PNG)
